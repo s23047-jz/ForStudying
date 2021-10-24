@@ -3,7 +3,7 @@
     padding: 0;
 }
 html {
-    background-image: url("/Technologie_Internetu/Zajecia1/img/nature.jfif");
+    background-image: url("/img/nature.jfif");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -38,6 +38,7 @@ li {
     left: 3vw;
     width: 20%;
     height: 100%;
+    background-color: rgba(36, 180, 206, .6);
 }
 .nav-bar__links {
     font-size: 20px;
