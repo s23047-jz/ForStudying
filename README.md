@@ -1,2 +1,0 @@
-# ForStudying
-For studying Repo

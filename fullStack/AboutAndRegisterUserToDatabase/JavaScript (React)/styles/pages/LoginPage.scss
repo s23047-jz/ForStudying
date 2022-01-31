@@ -1,0 +1,51 @@
+.loginPage {
+  width: 100%;
+  min-height: 30vh;
+  background-color: #ffc900;
+
+  .loginArea {
+    margin: 30px auto 0;
+    padding: 30px 10px;
+    background-color: #fff89a;
+    height: 200px;
+    width: 80%;
+    border: 2px solid #fff89a;
+    border-radius: 20px;
+
+    .loginBoard {
+      margin: 0 auto;
+      width: 30%;
+      display: block;
+      text-align: center;
+
+      label input {
+        font-size: 20px;
+        margin: 10px 0 5px;
+        border: 1px solid black;
+        border-radius: 20px;
+      }
+
+      a {
+        color: #1a5f7a;
+        text-decoration: none;
+        font-size: 15px;
+      }
+      a:hover {
+        color: gold;
+      }
+
+      button {
+        font-size: 20px;
+        width: 100px;
+        background-color: #fff;
+        border: 1px solid black;
+        border-radius: 20px;
+        margin: 5px 0 10px 10px;
+      }
+      button:hover {
+        color: white;
+        background-color: #1a5f7a;
+      }
+    }
+  }
+}
