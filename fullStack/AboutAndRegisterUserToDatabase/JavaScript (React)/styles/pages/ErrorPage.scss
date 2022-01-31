@@ -1,0 +1,21 @@
+.ErrorPage {
+  --height-div: 150px;
+
+  width: 100%;
+  min-height: 20vh;
+  background-color: #ffc900;
+
+  div {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    height: var(--height-div);
+    background-color: #fff89a;
+
+    p {
+      font-size: 40px;
+      color: brown;
+      line-height: var(--height-div);
+    }
+  }
+}
