@@ -1,0 +1,22 @@
+#work
+GET http://localhost:3001/tasks
+
+###
+
+#work
+POST http://localhost:3001/task/new
+Content-Type: application/json
+
+{
+  "text": "Just a test from server"
+}
+
+###
+
+#work
+DELETE http://localhost:3001/task/delete/61fb00ed62fa30c504329877
+
+###
+
+#work
+PUT http://localhost:3001/task/complete/61fb02b4ddac427f507fd11d
