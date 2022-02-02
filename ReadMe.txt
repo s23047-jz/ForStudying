@@ -1,2 +1,3 @@
-The languages ​​in which you want to develop it Javascript and Java.
-Python was for fun and some tests.
+Main language I want to develop in is Javascript.
+As the second one I like it is Java.
+Python was just for some tests.
