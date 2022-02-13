@@ -1,0 +1,40 @@
+.Task {
+  margin: 10px auto 5px;
+  width: 50%;
+  text-align: center;
+  /* background-color: rgba(0, 0, 0, 0.2); */
+  box-shadow: 0 2px 5px;
+  border-radius: 15px;
+}
+
+.Task span {
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(0, 44, 95);
+}
+
+.Task h1 {
+  font-size: 40px;
+  margin: 0 5px 5px;
+  padding: 10px;
+}
+
+.Task h4 {
+  font-size: 18px;
+}
+
+.Task h4 span {
+  color: rgb(148, 0, 0);
+}
+
+.Task button {
+  font-size: 20px;
+  margin: 5px;
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.Task button:hover {
+  background-color: rgb(94, 0, 0);
+  color: #fff;
+}

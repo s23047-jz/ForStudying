@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+.header {
+  display: flex;
+  flex: 0.5;
+  background-color: purple;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
